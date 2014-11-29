@@ -13,3 +13,55 @@
  *= require_tree .
  *= require_self
  */
+
+html {
+	background:midnightblue;
+}
+
+.container {
+	background:midnightblue;
+}
+
+body {
+	background-color:midnightblue !important;
+}
+
+.nav {
+	background-color: midnightblue;
+}
+
+.navbar-collapse {
+	background-color: midnightblue;
+}
+.navbar-brand {
+	color: white !important;
+}
+
+
+		a {
+			color: white !important;
+		}
+
+
+.navbar-collapse {
+	color: white;
+}
+
+.navbar-default {
+	background-color: midnightblue !important;
+}
+
+.navbar_default {
+	border-color: midnightblue !important;
+}
+
+.navbar {
+	border-color: midnightblue !important; 
+}
+
+
+
+
+
+
+
